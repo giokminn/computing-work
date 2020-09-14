@@ -4,6 +4,6 @@
  -skating
 
  *Education*:
- -Nan Chiau Primary School
+ -Nan Choo Primary School
  -Dunman High School
 
