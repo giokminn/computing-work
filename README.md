@@ -1,9 +1,9 @@
 # computing-work
  *Things I like to do*:
- -playing games
- -skating
+ - playing games
+ - skating
 
  *Education*:
- -Nan Chiau Primary School
- -Dunman High School
+ - Nan Chiau Primary School
+ - Dunman High School
 
